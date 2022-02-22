@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search_Filter&amp;amp;Room_Paging</string>
+    <string name="firstName">First Name:" "</string>
+    <string name="lastName">Last Name:" "</string>
+    <string name="age">Age:" "</string>
+
+</resources>
